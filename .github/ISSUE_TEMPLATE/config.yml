@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Docs
+    url: https://zerocaptcha.io/docs
+    about: Guides, the API reference and every error code.
+  - name: Support for your account, tasks or payments
+    url: https://zerocaptcha.io/contact
+    about: Write to support and quote the request ID.
+  - name: Security report
+    url: https://github.com/ZeroCaptcha/cloudflare-turnstile-solver-go/security/advisories/new
+    about: Report vulnerabilities privately, never in a public issue.

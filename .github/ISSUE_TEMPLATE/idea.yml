@@ -1,0 +1,11 @@
+name: Idea
+description: A change or an addition to this repository.
+labels: [enhancement]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: What would help
+      description: What you want to do, and what is missing or hard today.
+    validations:
+      required: true
